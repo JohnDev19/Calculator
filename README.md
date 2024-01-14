@@ -1,5 +1,10 @@
 # Neumorphic Design Calculator
 
+![Calculator Preview](IMG_20240114_145314.jpg)
+
+[Check out this stylish neumorphic design calculator!](https://johndev19.github.io/Calculator/)
+
+
 ---
 
 ## Features
