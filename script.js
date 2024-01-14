@@ -244,3 +244,6 @@ document.getElementById("switchBox").addEventListener("click", function () {
   mainContainer.classList.toggle("dark");
   mainContainer.classList.toggle("light");
 });
+
+// Copyright (c) 2024 JOHN RÉ PORAS
+  
