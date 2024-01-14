@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Neumorphic Elements:** The calculator incorporates neumorphic design principles for a contemporary and visually appealing look.
+- **Neumorphic Elements:** This calculator incorporates neumorphic design principles for a contemporary and visually appealing look.
 
 - **Easy-to-Use Interface:** Perform calculations with an intuitive button layout and a clear display.
 
@@ -29,5 +29,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Developer
+
+[JOHN RÉ PORAS](https://www.facebook.com/IamJohnPoras.org)
 
 ---
