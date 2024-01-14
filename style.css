@@ -180,3 +180,5 @@ body {
 input:checked + .slider:before {
   transform: translateX(36px);
 }
+
+/** Copyright (c) 2024 JOHN RÉ PORAS **/
