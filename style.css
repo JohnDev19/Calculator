@@ -132,12 +132,12 @@ body {
 #light-dark-mode {
   position: absolute;
   top: 10px;
-  left: 30px;
+  right: 30px;
 }
 #light-dark-mode .switch {
   display: inline-block;
-  width: 80px;
-  height: 44px;
+  width: 50px;
+  height: 34px;
 }
 #light-dark-mode .switch input {
   opacity: 0;
